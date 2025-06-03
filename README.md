@@ -1,0 +1,2 @@
+# CloudComputing-GroupProjectAssignment
+Microsoft Azure
